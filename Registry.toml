@@ -4,3 +4,4 @@ repo = "https://github.com/nrontsis/JuliaRegistry.git"
 description = "A registry for patched packages"
 
 [packages]
+30106799-4f9f-4b0d-bd7c-8755c9c83e81 = { name = "ComponentArrays", path = "C/ComponentArrays" }
