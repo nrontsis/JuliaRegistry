@@ -1,0 +1,6 @@
+name = "JuliaRegistry"
+uuid = "502085bb-76c0-41d1-9bb3-128b9b543b7c"
+repo = "https://github.com/nrontsis/JuliaRegistry.git"
+description = "A registry for patched packages"
+
+[packages]
